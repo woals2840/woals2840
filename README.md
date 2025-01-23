@@ -4,5 +4,6 @@
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
-[![Jaemin's GitHub stats](https://github-readme-stats.vercel.app/api?username=woals2840&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+
+![Jaemin's GitHub stats](https://github-readme-stats.vercel.app/api?username=woals2840&show_icons=true&bg_color=00000000)
 </div>
