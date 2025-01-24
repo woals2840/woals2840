@@ -1,6 +1,10 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=venom&color=auto&height=300&section=header&text=Jaemin%20&fontSize=90" />
 </div>
+
+
+---
+
 <h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
 <div align="center">
 
